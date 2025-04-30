@@ -1,9 +1,95 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "menu": [
+    {
+      "name": "Red Label Tea",
+      "price": 13000,
+      "category": "Beverages & Snacks"
+    },
+    {
+      "name": "Red Rose Tea",
+      "price": 13000,
+      "category": "Beverages & Snacks"
+    },
+    {
+      "name": "Red Bull",
+      "price": 17000,
+      "category": "Beverages & Snacks"
+    },
+    {
+      "name": "Pepsi / Coke (Bottle or Whiz)",
+      "price": 17000,
+      "category": "Beverages & Snacks"
+    },
+    {
+      "name": "Boiled Egg (2 Pieces)",
+      "price": 10000,
+      "category": "Snacks"
+    },
+    {
+      "name": "Chips (Chili / Plain)",
+      "price": 20000,
+      "category": "Snacks"
+    },
+    {
+      "name": "Egg & Chapati Roll",
+      "price": 10000,
+      "category": "Snacks"
+    },
+    {
+      "name": "Very Spicy Fried Tofu",
+      "price": 30000,
+      "category": "Snacks"
+    },
+    {
+      "name": "Dry Fried Chicken Wings (6 pcs)",
+      "price": 70000,
+      "category": "Chicken"
+    },
+    {
+      "name": "Full Chicken",
+      "price": 95000,
+      "category": "Chicken"
+    },
+    {
+      "name": "500ml Soda",
+      "price": 10000,
+      "category": "Cold Drinks & Juices"
+    },
+    {
+      "name": "Avocado Juice",
+      "price": 15000,
+      "category": "Cold Drinks & Juices"
+    },
+    {
+      "name": "Mango Juice",
+      "price": 15000,
+      "category": "Cold Drinks & Juices"
+    },
+    {
+      "name": "Donlim Drinking Water 1.5L",
+      "price": 10000,
+      "category": "Cold Drinks & Juices"
+    },
+    {
+      "name": "Soda Water",
+      "price": 10000,
+      "category": "Cold Drinks & Juices"
+    },
+    {
+      "name": "Goat Meat with Chapati",
+      "price": 75000,
+      "category": "Goat Meat"
+    },
+    {
+      "name": "Fried Liver",
+      "price": 45000,
+      "category": "Beef"
+    },
+    {
+      "name": "Ugali with Sukuma & Beef",
+      "price": 50000,
+      "category": "Beef"
+    }
+  ]
+   
 }
