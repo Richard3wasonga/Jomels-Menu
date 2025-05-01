@@ -42,10 +42,10 @@
     { "id": 9, "name": "Glass of Milk", "price": 150, "category": "breakfast" },
     { "id": 10, "name": "Glass of Dawa", "price": 200, "category": "breakfast" },
 
-    { "id": 11, "name": "Fresh Juice", "price": 300, "category": "coldBeverages" },
-    { "id": 12, "name": "Milkshakes", "price": 400, "category": "coldBeverages" },
-    { "id": 13, "name": "Mocktails", "price": 400, "category": "coldBeverages" },
-    { "id": 14, "name": "Cocktail Juice", "price": 300, "category": "coldBeverages" },
+    { "id": 11, "name": "Fresh Juice", "price": 300, "category": "cold Beverages" },
+    { "id": 12, "name": "Milkshakes", "price": 400, "category": "cold Beverages" },
+    { "id": 13, "name": "Mocktails", "price": 400, "category": "cold Beverages" },
+    { "id": 14, "name": "Cocktail Juice", "price": 300, "category": "cold Beverages" },
 
     { "id": 15, "name": "Garden Salad", "price": 300, "category": "salads" },
     { "id": 16, "name": "Caesar Salad", "price": 400, "category": "salads" },
@@ -83,7 +83,7 @@
     { "id": 44, "name": "Chicken/Chapati", "price": 700, "category": "Chicken Breast" },
     
     { "id": 45, "name": "Chicken/Ugali", "price": 400, "category": "Chicken Drumstick" },
-    { "id": 46, "name": "Chicken/Rice", "price": 550, "category": "Chicken Drrumstick" },
+    { "id": 46, "name": "Chicken/Rice", "price": 550, "category": "Chicken Drumstick" },
     { "id": 47, "name": "Chicken/Chapati", "price": 500, "category": "Chicken Drumstck" },
 
     { "id": 48, "name": "Potato Wedges", "price": 250, "category": "Accomponiment" },
