@@ -1,95 +1,152 @@
 {
-  "menu": [
+  "breakfast": [
     {
-      "name": "Red Label Tea",
-      "price": 13000,
-      "category": "Beverages & Snacks"
+      "id": 1,
+      "name": "Full English Breakfast",
+      "price": 2500
     },
     {
-      "name": "Red Rose Tea",
-      "price": 13000,
-      "category": "Beverages & Snacks"
+      "id": 2,
+      "name": "Assorted Tropical Fruits & Beverages",
+      "price": 1000
     },
     {
-      "name": "Red Bull",
-      "price": 17000,
-      "category": "Beverages & Snacks"
+      "id": 3,
+      "name": "Tea Pot/Mixed Tea",
+      "price": 200
     },
     {
-      "name": "Pepsi / Coke (Bottle or Whiz)",
-      "price": 17000,
-      "category": "Beverages & Snacks"
+      "id": 4,
+      "name": "Large Tea Pot/Mixed Tea",
+      "price": 400
     },
     {
-      "name": "Boiled Egg (2 Pieces)",
-      "price": 10000,
-      "category": "Snacks"
+      "id": 5,
+      "name": "Tea Masala",
+      "price": 220
     },
     {
-      "name": "Chips (Chili / Plain)",
-      "price": 20000,
-      "category": "Snacks"
+      "id": 6,
+      "name": "Black Tea",
+      "price": 150
     },
     {
-      "name": "Egg & Chapati Roll",
-      "price": 10000,
-      "category": "Snacks"
+      "id": 7,
+      "name": "White Coffee",
+      "price": 200
     },
     {
-      "name": "Very Spicy Fried Tofu",
-      "price": 30000,
-      "category": "Snacks"
+      "id": 8,
+      "name": "Black Coffee",
+      "price": 180
     },
     {
-      "name": "Dry Fried Chicken Wings (6 pcs)",
-      "price": 70000,
-      "category": "Chicken"
+      "id": 9,
+      "name": "Glass of Milk",
+      "price": 150
     },
     {
-      "name": "Full Chicken",
-      "price": 95000,
-      "category": "Chicken"
-    },
-    {
-      "name": "500ml Soda",
-      "price": 10000,
-      "category": "Cold Drinks & Juices"
-    },
-    {
-      "name": "Avocado Juice",
-      "price": 15000,
-      "category": "Cold Drinks & Juices"
-    },
-    {
-      "name": "Mango Juice",
-      "price": 15000,
-      "category": "Cold Drinks & Juices"
-    },
-    {
-      "name": "Donlim Drinking Water 1.5L",
-      "price": 10000,
-      "category": "Cold Drinks & Juices"
-    },
-    {
-      "name": "Soda Water",
-      "price": 10000,
-      "category": "Cold Drinks & Juices"
-    },
-    {
-      "name": "Goat Meat with Chapati",
-      "price": 75000,
-      "category": "Goat Meat"
-    },
-    {
-      "name": "Fried Liver",
-      "price": 45000,
-      "category": "Beef"
-    },
-    {
-      "name": "Ugali with Sukuma & Beef",
-      "price": 50000,
-      "category": "Beef"
+      "id": 10,
+      "name": "Glass of Dawa",
+      "price": 200
     }
+  ],
+  "coldBeverages": [
+    {
+      "id": 1,
+      "name": "Fresh Juice",
+      "price": 300
+    },
+    {
+      "id": 2,
+      "name": "Milkshakes",
+      "price": 400
+    },
+    {
+      "id": 3,
+      "name": "Mocktails",
+      "price": 400
+    },
+    {
+      "id": 4,
+      "name": "Cocktail Juice",
+      "price": 300
+    }
+  ],
+  "wraps": [
+    { "id": 1, "name": "Super Tacos" },
+    { "id": 2, "name": "Veggie Wrap" },
+    { "id": 3, "name": "Chicken & Cheese Wrap with Avocado (with fries)" },
+    { "id": 4, "name": "Tomato & Cheese Wrap (with chips or salad)" },
+    { "id": 5, "name": "Classic Veggie Wrap (with fries or salad)" }
+  ],
+  "salads": [
+    { "id": 1, "name": "Garden Salad", "price": 300 },
+    { "id": 2, "name": "Caesar Salad", "price": 400 },
+    { "id": 3, "name": "Chicken Salad", "price": 500 },
+    { "id": 4, "name": "Spicy Thai Salad (Beef & Chicken)", "price": 600 },
+    { "id": 5, "name": "Greek Salad", "price": 550 },
+    { "id": 6, "name": "Tuma Salad", "price": 500 }
+  ],
+  "sandwiches": [
+    { "id": 1, "name": "Chicken Salad", "price": 400 },
+    { "id": 2, "name": "Chicken Cheese", "price": 500 },
+    { "id": 3, "name": "Chicken Pestro", "price": 550 },
+    { "id": 4, "name": "Chicken Tikka", "price": 500 }
+  ],
+  "snacks": [
+    { "id": 1, "name": "Fries", "price": 200 },
+    { "id": 2, "name": "Chips Masala", "price": 250 },
+    { "id": 3, "name": "Pair of Sausages", "price": 150 },
+    { "id": 4, "name": "Pair of Samosa", "price": 150 },
+    { "id": 5, "name": "Pair of Mandazi", "price": 150 },
+    { "id": 6, "name": "Spanish Omelette", "price": 200 },
+    { "id": 7, "name": "Fried/Boiled Eggs", "price": 150 },
+    { "id": 8, "name": "Kebab", "price": 150 },
+    { "id": 9, "name": "Meat Pie", "price": 200 },
+    { "id": 10, "name": "Pan Cakes", "price": 150 },
+    { "id": 11, "name": "Waffles", "price": 150 }
+  ],
+  "pizzas": [
+    { "id": 1, "name": "Margherita", "priceSmall": 800, "priceMedium": 1200, "priceLarge": 1600 },
+    { "id": 2, "name": "Pepperoni", "priceSmall": 800, "priceMedium": 1200, "priceLarge": 1600 },
+    { "id": 3, "name": "Hawaiian", "priceSmall": 800, "priceMedium": 1200, "priceLarge": 1600 },
+    { "id": 4, "name": "BBQ Chicken", "priceSmall": 800, "priceMedium": 1200, "priceLarge": 1600 },
+    { "id": 5, "name": "BBQ Steak", "priceSmall": 800, "priceMedium": 1200, "priceLarge": 1600 }
+  ],
+  "mainMeals": [
+    { "id": 1, "name": "Full Kienyeji Chicken (with ugali & sukuma wiki)", "price": 2500 },
+    { "id": 2, "name": "Chicken/Ugali", "price": 800 },
+    { "id": 3, "name": "Chicken/Rice", "price": 700 },
+    { "id": 4, "name": "Chicken/Chapati", "price": 700 },
+    { "id": 5, "name": "Fish/Ugali", "price": 700 },
+    { "id": 6, "name": "Fish/Chips", "price": 700 },
+    { "id": 7, "name": "Fish/Chapati", "price": 700 },
+    { "id": 8, "name": "Fish Rice", "price": 700 },
+    { "id": 9, "name": "Pork/Ugali", "price": 550 },
+    { "id": 10, "name": "Pork/Chips", "price": 700 },
+    { "id": 11, "name": "Pork/Rice", "price": 700 },
+    { "id": 12, "name": "Beef/Ugali", "price": 650 },
+    { "id": 13, "name": "Beef/Chips", "price": 750 },
+    { "id": 14, "name": "Beef/Chapati", "price": 700 },
+    { "id": 15, "name": "Beef/Rice", "price": 700 }
+  ],
+  "pastries": [
+    { "id": 1, "name": "Chocolate Cookies", "price": 100 },
+    { "id": 2, "name": "Lemon Muffin", "price": 200 },
+    { "id": 3, "name": "Cinnamon Roll", "price": 280 },
+    { "id": 4, "name": "Carrot Cake", "price": 250 },
+    { "id": 5, "name": "Black Forest", "price": 250 },
+    { "id": 6, "name": "White Forest", "price": 250 },
+    { "id": 7, "name": "Banana Bread", "price": 200 }
+  ],
+  "traditional": [
+    { "id": 1, "name": "Aliya (Sun Dried Beef)", "price": 600 },
+    { "id": 2, "name": "Bone Marrow (Boil)", "price": 500 },
+    { "id": 3, "name": "Obambo (Sun Dried Tilapia)", "price": 600 },
+    { "id": 4, "name": "Quail (Aluru)", "price": 450 },
+    { "id": 5, "name": "Traditional Porridge", "price": 200 },
+    { "id": 6, "name": "Kienyeji Vegetables", "price": 200 },
+    { "id": 7, "name": "Githeri", "price": 200 }
   ]
-   
 }
