@@ -1,7 +1,38 @@
 {
   "menu": [
-    { "id": 1, "name": "Full English Breakfast", "price": 2500, "category": "breakfast" },
-    { "id": 2, "name": "Assorted Tropical Fruits & Beverages", "price": 1000, "category": "breakfast" },
+    {
+  "id": 1,
+  "name": "Full English Breakfast",
+  "price": 2500,
+  "category": "breakfast",
+  "details": [
+    "2 Eggs (fried or scrambled)",
+    "Sausages",
+    "Baked beans",
+    "Grilled tomatoes",
+    "Toast or bread rolls",
+    "Butter and jam",
+    "Choice of hot beverage"
+  ]
+},
+   {
+  "id": 2,
+  "name": "Anglo-American Breakfast",
+  "price": 1000,
+  "category": "breakfast",
+  "details": [
+    "Fresh fruit juice",
+    "Eggs (fried / boiled / scrambled)",
+    "Sausages",
+    "Bacon",
+    "Grilled tomato",
+    "Baked beans",
+    "Bread (toasted or plain)",
+    "Butter and jam",
+    "Hot beverage (tea or coffee)"
+  ]
+},
+    
     { "id": 3, "name": "Tea Pot/Mixed Tea", "price": 200, "category": "breakfast" },
     { "id": 4, "name": "Large Tea Pot/Mixed Tea", "price": 400, "category": "breakfast" },
     { "id": 5, "name": "Tea Masala", "price": 220, "category": "breakfast" },
@@ -52,21 +83,39 @@
     { "id": 44, "name": "BBQ Chicken", "priceSmall": 800, "priceMedium": 1200, "priceLarge": 1600, "category": "pizzas" },
     { "id": 45, "name": "BBQ Steak", "priceSmall": 800, "priceMedium": 1200, "priceLarge": 1600, "category": "pizzas" },
 
-    { "id": 46, "name": "Full Kienyeji Chicken (with ugali & sukuma wiki)", "price": 2500, "category": "mainMeals" },
-    { "id": 47, "name": "Chicken/Ugali", "price": 800, "category": "mainMeals" },
-    { "id": 48, "name": "Chicken/Rice", "price": 700, "category": "mainMeals" },
-    { "id": 49, "name": "Chicken/Chapati", "price": 700, "category": "mainMeals" },
-    { "id": 50, "name": "Fish/Ugali", "price": 700, "category": "mainMeals" },
-    { "id": 51, "name": "Fish/Chips", "price": 700, "category": "mainMeals" },
-    { "id": 52, "name": "Fish/Chapati", "price": 700, "category": "mainMeals" },
-    { "id": 53, "name": "Fish Rice", "price": 700, "category": "mainMeals" },
-    { "id": 54, "name": "Pork/Ugali", "price": 550, "category": "mainMeals" },
-    { "id": 55, "name": "Pork/Chips", "price": 700, "category": "mainMeals" },
-    { "id": 56, "name": "Pork/Rice", "price": 700, "category": "mainMeals" },
-    { "id": 57, "name": "Beef/Ugali", "price": 650, "category": "mainMeals" },
-    { "id": 58, "name": "Beef/Chips", "price": 750, "category": "mainMeals" },
-    { "id": 59, "name": "Beef/Chapati", "price": 700, "category": "mainMeals" },
-    { "id": 60, "name": "Beef/Rice", "price": 700, "category": "mainMeals" },
+    { "id": 46, "name": "Full Kienyeji Chicken (with 3 ugali & sukuma wiki)", "price": 2500, "category": "Chicken Breast" },
+    { "id": 47, "name": "Chicken/Ugali", "price": 800, "category": "Chicken Breast" },
+    { "id": 48, "name": "Chicken/Rice", "price": 700, "category": "Chicken Breast" },
+    { "id": 49, "name": "Chicken/Chapati", "price": 700, "category": "Chicken Breast" },
+    
+    { "id": 47, "name": "Chicken/Ugali", "price": 400, "category": "Chicken Drumstick" },
+    { "id": 48, "name": "Chicken/Rice", "price": 550, "category": "Chicken Drrumstick" },
+    { "id": 49, "name": "Chicken/Chapati", "price": 500, "category": "Chicken Drumstck" },
+
+    { "id": 47, "name": "Potato Wedges", "price": 250, "category": "Accomponiment" },
+    { "id": 48, "name": "Roasted Potatoes", "price": 250, "category": "Accomponiment" },
+    { "id": 49, "name": "Mushed potatoes", "price": 250, "category": "Accomponiment" },
+    { "id": 47, "name": "French Rice", "price": 200, "category": "Accomponiment" },
+    { "id": 48, "name": "Vegetable Rice", "price": 200, "category": "Accomponiment" },
+    { "id": 49, "name": "Plain Pilau", "price": 250, "category": "Accomponiment" },
+    { "id": 47, "name": "Beef Pilau", "price": 750, "category": "Accomponiment" },
+    { "id": 48, "name": "Plain Rice", "price": 150, "category": "Accomponiment" },
+    { "id": 48, "name": "Ugali", "price": 100, "category": "Accomponiment" },
+    { "id": 48, "name": "Brown ugali", "price": 150, "category": "Accomponiment" },
+   
+    
+    { "id": 50, "name": "Fish/Ugali", "price": 700, "category": "Fish" },
+    { "id": 51, "name": "Fish/Chips", "price": 700, "category": "Fish" },
+    { "id": 52, "name": "Fish/Chapati", "price": 700, "category": "Fish" },
+    { "id": 53, "name": "Fish Rice", "price": 700, "category": "Fish" },
+       
+    { "id": 54, "name": "Pork/Ugali", "price": 550, "category": "Meat" },
+    { "id": 55, "name": "Pork/Chips", "price": 700, "category": "Meat" },
+    { "id": 56, "name": "Pork/Rice", "price": 700, "category": "Meat" },
+    { "id": 57, "name": "Beef/Ugali", "price": 650, "category": "Meat" },
+    { "id": 58, "name": "Beef/Chips", "price": 750, "category": "Meat" },
+    { "id": 59, "name": "Beef/Chapati", "price": 700, "category": "Meat" },
+    { "id": 60, "name": "Beef/Rice", "price": 700, "category": "Meat" },
 
     { "id": 61, "name": "Chocolate Cookies", "price": 100, "category": "pastries" },
     { "id": 62, "name": "Lemon Muffin", "price": 200, "category": "pastries" },
