@@ -120,11 +120,11 @@
     { "id": 75, "name": "Banana Bread", "price": 200, "category": "pastries" },
 
     { "id": 76, "name": "Aliya (Sun Dried Beef)", "price": 600, "category": "traditional" },
-    { "id": 78, "name": "Bone Marrow (Boil)", "price": 500, "category": "traditional" },
-    { "id": 79, "name": "Obambo (Sun Dried Tilapia)", "price": 600, "category": "traditional" },
-    { "id": 80, "name": "Quail (Aluru)", "price": 450, "category": "traditional" },
-    { "id": 81, "name": "Traditional Porridge", "price": 200, "category": "traditional" },
-    { "id": 82, "name": "Kienyeji Vegetables", "price": 200, "category": "traditional" },
-    { "id": 83, "name": "Githeri", "price": 200, "category": "traditional" }
+    { "id": 77, "name": "Bone Marrow (Boil)", "price": 500, "category": "traditional" },
+    { "id": 78, "name": "Obambo (Sun Dried Tilapia)", "price": 600, "category": "traditional" },
+    { "id": 79, "name": "Quail (Aluru)", "price": 450, "category": "traditional" },
+    { "id": 80, "name": "Traditional Porridge", "price": 200, "category": "traditional" },
+    { "id": 81, "name": "Kienyeji Vegetables", "price": 200, "category": "traditional" },
+    { "id": 82, "name": "Githeri", "price": 200, "category": "traditional" }
   ]
 }
