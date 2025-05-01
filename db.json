@@ -84,7 +84,7 @@
     
     { "id": 45, "name": "Chicken/Ugali", "price": 400, "category": "Chicken Drumstick" },
     { "id": 46, "name": "Chicken/Rice", "price": 550, "category": "Chicken Drumstick" },
-    { "id": 47, "name": "Chicken/Chapati", "price": 500, "category": "Chicken Drumstck" },
+    { "id": 47, "name": "Chicken/Chapati", "price": 500, "category": "Chicken Drumstick" },
 
     { "id": 48, "name": "Potato Wedges", "price": 250, "category": "Accomponiment" },
     { "id": 49, "name": "Roasted Potatoes", "price": 250, "category": "Accomponiment" },
