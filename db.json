@@ -4,7 +4,7 @@
   "id": 1,
   "name": "Full English Breakfast",
   "price": 2500,
-  "category": "breakfast",
+  "category": "Full breakfast",
   "details": [
     "2 Eggs (fried or scrambled)",
     "Sausages",
@@ -19,7 +19,7 @@
   "id": 2,
   "name": "Anglo-American Breakfast",
   "price": 1000,
-  "category": "breakfast",
+  "category": "Full breakfast",
   "details": [
     "Fresh fruit juice",
     "Eggs (fried / boiled / scrambled)",
