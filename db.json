@@ -1,100 +1,427 @@
 {
   "menu": [
+     {
+      "id": 1,
+      "name": "Full English Breakfast",
+      "price": 2500,
+      "category": "Full breakfast",
+      "image": "https://images.unsplash.com/photo-1558584724-0e4d32ca55a4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZnVsbCUyMGVuZ2xpc2glMjBicmVha2Zhc3R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80",
+      "details": [
+        "2 Eggs (fried or scrambled)",
+        "Sausages",
+        "Baked beans",
+        "Grilled tomatoes",
+        "Toast or bread rolls",
+        "Butter and jam",
+        "Choice of hot beverage"
+      ]
+    },
     {
-  "id": 1,
-  "name": "Full English Breakfast",
-  "price": 2500,
-  "category": "Full breakfast",
-  "details": [
-    "2 Eggs (fried or scrambled)",
-    "Sausages",
-    "Baked beans",
-    "Grilled tomatoes",
-    "Toast or bread rolls",
-    "Butter and jam",
-    "Choice of hot beverage"
-  ]
-},
-   {
-  "id": 2,
-  "name": "Anglo-American Breakfast",
-  "price": 1000,
-  "category": "Full breakfast",
-  "details": [
-    "Fresh fruit juice",
-    "Eggs (fried / boiled / scrambled)",
-    "Sausages",
-    "Bacon",
-    "Grilled tomato",
-    "Baked beans",
-    "Bread (toasted or plain)",
-    "Butter and jam",
-    "Hot beverage (tea or coffee)"
-  ]
-},
-    
-    { "id": 3, "name": "Tea Pot/Mixed Tea", "price": 200, "category": "breakfast" },
-    { "id": 4, "name": "Large Tea Pot/Mixed Tea", "price": 400, "category": "breakfast" },
-    { "id": 5, "name": "Tea Masala", "price": 220, "category": "breakfast" },
-    { "id": 6, "name": "Black Tea", "price": 150, "category": "breakfast" },
-    { "id": 7, "name": "White Coffee", "price": 200, "category": "breakfast" },
-    { "id": 8, "name": "Black Coffee", "price": 180, "category": "breakfast" },
-    { "id": 9, "name": "Glass of Milk", "price": 150, "category": "breakfast" },
-    { "id": 10, "name": "Glass of Dawa", "price": 200, "category": "breakfast" },
-
-    { "id": 11, "name": "Fresh Juice", "price": 300, "category": "cold Beverages" },
-    { "id": 12, "name": "Milkshakes", "price": 400, "category": "cold Beverages" },
-    { "id": 13, "name": "Mocktails", "price": 400, "category": "cold Beverages" },
-    { "id": 14, "name": "Cocktail Juice", "price": 300, "category": "cold Beverages" },
-
-    { "id": 15, "name": "Garden Salad", "price": 300, "category": "salads" },
-    { "id": 16, "name": "Caesar Salad", "price": 400, "category": "salads" },
-    { "id": 17, "name": "Chicken Salad", "price": 500, "category": "salads" },
-    { "id": 18, "name": "Spicy Thai Salad (Beef & Chicken)", "price": 600, "category": "salads" },
-    { "id": 19, "name": "Greek Salad", "price": 550, "category": "salads" },
-    { "id": 20, "name": "Tuma Salad", "price": 500, "category": "salads" },
-
-    { "id": 21, "name": "Chicken Salad", "price": 400, "category": "sandwiches" },
-    { "id": 22, "name": "Chicken Cheese", "price": 500, "category": "sandwiches" },
-    { "id": 23, "name": "Chicken Pestro", "price": 550, "category": "sandwiches" },
-    { "id": 24, "name": "Chicken Tikka", "price": 500, "category": "sandwiches" },
-
-    { "id": 25, "name": "Fries", "price": 200, "category": "snacks" },
-    { "id": 26, "name": "Chips Masala", "price": 250, "category": "snacks" },
-    { "id": 27, "name": "Pair of Sausages", "price": 150, "category": "snacks" },
-    { "id": 28, "name": "Pair of Samosa", "price": 150, "category": "snacks" },
-    { "id": 29, "name": "Pair of Mandazi", "price": 150, "category": "snacks" },
-    { "id": 30, "name": "Spanish Omelette", "price": 200, "category": "snacks" },
-    { "id": 31, "name": "Fried/Boiled Eggs", "price": 150, "category": "snacks" },
-    { "id": 32, "name": "Kebab", "price": 150, "category": "snacks" },
-    { "id": 33, "name": "Meat Pie", "price": 200, "category": "snacks" },
-    { "id": 34, "name": "Pan Cakes", "price": 150, "category": "snacks" },
-    { "id": 35, "name": "Waffles", "price": 150, "category": "snacks" },
-
-    { "id": 36, "name": "Margherita", "priceSmall": 800, "priceMedium": 1200, "priceLarge": 1600, "category": "pizzas" },
-    { "id": 37, "name": "Pepperoni", "priceSmall": 800, "priceMedium": 1200, "priceLarge": 1600, "category": "pizzas" },
-    { "id": 38, "name": "Hawaiian", "priceSmall": 800, "priceMedium": 1200, "priceLarge": 1600, "category": "pizzas" },
-    { "id": 39, "name": "BBQ Chicken", "priceSmall": 800, "priceMedium": 1200, "priceLarge": 1600, "category": "pizzas" },
-    { "id": 40, "name": "BBQ Steak", "priceSmall": 800, "priceMedium": 1200, "priceLarge": 1600, "category": "pizzas" },
-
-    { "id": 41, "name": "Full Kienyeji Chicken (with 3 ugali & sukuma wiki)", "price": 2500, "category": "Chicken Breast" },
-    { "id": 42, "name": "Chicken/Ugali", "price": 800, "category": "Chicken Breast" },
-    { "id": 43, "name": "Chicken/Rice", "price": 700, "category": "Chicken Breast" },
-    { "id": 44, "name": "Chicken/Chapati", "price": 700, "category": "Chicken Breast" },
-    
-    { "id": 45, "name": "Chicken/Ugali", "price": 400, "category": "Chicken Drumstick" },
-    { "id": 46, "name": "Chicken/Rice", "price": 550, "category": "Chicken Drumstick" },
-    { "id": 47, "name": "Chicken/Chapati", "price": 500, "category": "Chicken Drumstick" },
-
-    { "id": 48, "name": "Potato Wedges", "price": 250, "category": "Accomponiment" },
-    { "id": 49, "name": "Roasted Potatoes", "price": 250, "category": "Accomponiment" },
-    { "id": 50, "name": "Mushed potatoes", "price": 250, "category": "Accomponiment" },
-    { "id": 51, "name": "French Rice", "price": 200, "category": "Accomponiment" },
-    { "id": 52, "name": "Vegetable Rice", "price": 200, "category": "Accomponiment" },
-    { "id": 53, "name": "Plain Pilau", "price": 250, "category": "Accomponiment" },
-    { "id": 54, "name": "Beef Pilau", "price": 750, "category": "Accomponiment" },
-    { "id": 55, "name": "Plain Rice", "price": 150, "category": "Accomponiment" },
-    { "id": 56, "name": "Ugali", "price": 100, "category": "Accomponiment" },
+      "id": 2,
+      "name": "Anglo-American Breakfast",
+      "price": 1000,
+      "category": "Full breakfast",
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YW1lcmljYW4lMjBicmVha2Zhc3R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80",
+      "details": [
+        "Fresh fruit juice",
+        "Eggs (fried / boiled / scrambled)",
+        "Sausages",
+        "Bacon",
+        "Grilled tomato",
+        "Baked beans",
+        "Bread (toasted or plain)",
+        "Butter and jam",
+        "Hot beverage (tea or coffee)"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Tea Pot/Mixed Tea",
+      "price": 200,
+      "category": "breakfast",
+      "image": "https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8dGVhJTIwcG90fGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Large Tea Pot/Mixed Tea",
+      "price": 400,
+      "category": "breakfast",
+      "image": "https://images.unsplash.com/photo-1597318181409-cf64d0b5d8a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGxhcmdlJTIwdGVhJTIwcG90fGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Tea Masala",
+      "price": 220,
+      "category": "breakfast",
+      "image": "https://images.unsplash.com/photo-1597318181409-cf64d0b5d8a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGxhcmdlJTIwdGVhJTIwcG90fGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Black Tea",
+      "price": 150,
+      "category": "breakfast",
+      "image": "https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8dGVhJTIwcG90fGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 7,
+      "name": "White Coffee",
+      "price": 200,
+      "category": "breakfast",
+      "image": "https://images.unsplash.com/photo-1517701550927-30cf4ba1dba5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHdoaXRlJTIwY29mZmVlfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 8,
+      "name": "Black Coffee",
+      "price": 180,
+      "category": "breakfast",
+      "image": "https://images.unsplash.com/photo-1517701550927-30cf4ba1dba5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHdoaXRlJTIwY29mZmVlfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 9,
+      "name": "Glass of Milk",
+      "price": 150,
+      "category": "breakfast",
+      "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z2xhc3MlMjBvZiUyMG1pbGt8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 10,
+      "name": "Glass of Dawa",
+      "price": 200,
+      "category": "breakfast",
+      "image": "https://images.unsplash.com/photo-1517701550927-30cf4ba1dba5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHdoaXRlJTIwY29mZmVlfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 11,
+      "name": "Fresh Juice",
+      "price": 300,
+      "category": "cold Beverages",
+      "image": "https://images.unsplash.com/photo-1603569283847-aa295f0d016a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZnJlc2glMjBqdWljZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 12,
+      "name": "Milkshakes",
+      "price": 400,
+      "category": "cold Beverages",
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWlsa3NoYWtlfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 13,
+      "name": "Mocktails",
+      "price": 400,
+      "category": "cold Beverages",
+      "image": "https://images.unsplash.com/photo-1551751299-1b51cab2694c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bW9ja3RhaWx8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 14,
+      "name": "Cocktail Juice",
+      "price": 300,
+      "category": "cold Beverages",
+      "image": "https://images.unsplash.com/photo-1551751299-1b51cab2694c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bW9ja3RhaWx8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 15,
+      "name": "Garden Salad",
+      "price": 300,
+      "category": "salads",
+      "image": "https://images.unsplash.com/photo-1546793665-c74683f339c1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z2FyZGVuJTIwc2FsYWR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 16,
+      "name": "Caesar Salad",
+      "price": 400,
+      "category": "salads",
+      "image": "https://images.unsplash.com/photo-1546793665-c74683f339c1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z2FyZGVuJTIwc2FsYWR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 17,
+      "name": "Chicken Salad",
+      "price": 500,
+      "category": "salads",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMHNhbGFkfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 18,
+      "name": "Spicy Thai Salad (Beef & Chicken)",
+      "price": 600,
+      "category": "salads",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMHNhbGFkfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 19,
+      "name": "Greek Salad",
+      "price": 550,
+      "category": "salads",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMHNhbGFkfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 20,
+      "name": "Tuma Salad",
+      "price": 500,
+      "category": "salads",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMHNhbGFkfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 21,
+      "name": "Chicken Salad",
+      "price": 400,
+      "category": "sandwiches",
+      "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMHNhbmR3aWNofGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 22,
+      "name": "Chicken Cheese",
+      "price": 500,
+      "category": "sandwiches",
+      "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMHNhbmR3aWNofGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 23,
+      "name": "Chicken Pestro",
+      "price": 550,
+      "category": "sandwiches",
+      "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMHNhbmR3aWNofGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 24,
+      "name": "Chicken Tikka",
+      "price": 500,
+      "category": "sandwiches",
+      "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMHNhbmR3aWNofGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 25,
+      "name": "Fries",
+      "price": 200,
+      "category": "snacks",
+      "image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZnJpZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 26,
+      "name": "Chips Masala",
+      "price": 250,
+      "category": "snacks",
+      "image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZnJpZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 27,
+      "name": "Pair of Sausages",
+      "price": 150,
+      "category": "snacks",
+      "image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZnJpZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 28,
+      "name": "Pair of Samosa",
+      "price": 150,
+      "category": "snacks",
+      "image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZnJpZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 29,
+      "name": "Pair of Mandazi",
+      "price": 150,
+      "category": "snacks",
+      "image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZnJpZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 30,
+      "name": "Spanish Omelette",
+      "price": 200,
+      "category": "snacks",
+      "image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZnJpZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 31,
+      "name": "Fried/Boiled Eggs",
+      "price": 150,
+      "category": "snacks",
+      "image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZnJpZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 32,
+      "name": "Kebab",
+      "price": 150,
+      "category": "snacks",
+      "image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZnJpZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 33,
+      "name": "Meat Pie",
+      "price": 200,
+      "category": "snacks",
+      "image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZnJpZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 34,
+      "name": "Pan Cakes",
+      "price": 150,
+      "category": "snacks",
+      "image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZnJpZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 35,
+      "name": "Waffles",
+      "price": 150,
+      "category": "snacks",
+      "image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZnJpZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 36,
+      "name": "Margherita",
+      "priceSmall": 800,
+      "priceMedium": 1200,
+      "priceLarge": 1600,
+      "category": "pizzas",
+      "image": "https://images.unsplash.com/photo-1571066811602-716837d681de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGl6emF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 37,
+      "name": "Pepperoni",
+      "priceSmall": 800,
+      "priceMedium": 1200,
+      "priceLarge": 1600,
+      "category": "pizzas",
+      "image": "https://images.unsplash.com/photo-1571066811602-716837d681de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGl6emF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 38,
+      "name": "Hawaiian",
+      "priceSmall": 800,
+      "priceMedium": 1200,
+      "priceLarge": 1600,
+      "category": "pizzas",
+      "image": "https://images.unsplash.com/photo-1571066811602-716837d681de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGl6emF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 39,
+      "name": "BBQ Chicken",
+      "priceSmall": 800,
+      "priceMedium": 1200,
+      "priceLarge": 1600,
+      "category": "pizzas",
+      "image": "https://images.unsplash.com/photo-1571066811602-716837d681de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGl6emF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 40,
+      "name": "BBQ Steak",
+      "priceSmall": 800,
+      "priceMedium": 1200,
+      "priceLarge": 1600,
+      "category": "pizzas",
+      "image": "https://images.unsplash.com/photo-1571066811602-716837d681de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGl6emF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 41,
+      "name": "Full Kienyeji Chicken (with 3 ugali & sukuma wiki)",
+      "price": 2500,
+      "category": "Chicken Breast",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMHNhbGFkfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 42,
+      "name": "Chicken/Ugali",
+      "price": 800,
+      "category": "Chicken Breast",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMHNhbGFkfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 43,
+      "name": "Chicken/Rice",
+      "price": 700,
+      "category": "Chicken Breast",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMHNhbGFkfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 44,
+      "name": "Chicken/Chapati",
+      "price": 700,
+      "category": "Chicken Breast",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMHNhbGFkfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 45,
+      "name": "Chicken/Ugali",
+      "price": 400,
+      "category": "Chicken Drumstick",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMHNhbGFkfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 46,
+      "name": "Chicken/Rice",
+      "price": 550,
+      "category": "Chicken Drumstick",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMHNhbGFkfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 47,
+      "name": "Chicken/Chapati",
+      "price": 500,
+      "category": "Chicken Drumstick",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMHNhbGFkfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 48,
+      "name": "Potato Wedges",
+      "price": 250,
+      "category": "Accomponiment",
+      "image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZnJpZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 49,
+      "name": "Roasted Potatoes",
+      "price": 250,
+      "category": "Accomponiment",
+      "image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZnJpZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 50,
+      "name": "Mushed potatoes",
+      "price": 250,
+      "category": "Accomponiment",
+      "image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZnJpZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 51,
+      "name": "French Rice",
+      "price": 200,
+      "category": "Accomponiment",
+      "image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZnJpZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 52,
+      "name": "Vegetable Rice",
+      "price": 200,
+      "category": "Accomponiment",
+      "image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZnJpZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 53,
+      "name": "Plain Pilau",
+      "price": 250,
+      "category": "Accomponiment",
+      "image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZnJpZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 54,
+      "name": "Beef Pilau",
+      "price": 750,
+      "category": "Accomponiment",
+      "image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZnJpZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 55,
+      "name": "Plain Rice",
+      "price": 150,
+      "category": "Accomponiment",
+      "image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZnJpZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 56,
+      "name": "Ugali",
+      "price": 100,
+      "category": "Accomponiment",
+      "image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZnJpZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=80"
+    },
     { "id": 57, "name": "Brown ugali", "price": 150, "category": "Accomponiment" },
    
     
