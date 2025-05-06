@@ -443,15 +443,55 @@
     { "id": 71, "name": "Cinnamon Roll", "price": 280, "category": "pastries" },
     { "id": 72, "name": "Carrot Cake", "price": 250, "category": "pastries" },
     { "id": 73, "name": "Black Forest", "price": 250, "category": "pastries" },
-    { "id": 74, "name": "White Forest", "price": 250, "category": "pastries" },
-    { "id": 75, "name": "Banana Bread", "price": 200, "category": "pastries" },
+    { "id": 74,
+      "name": "White Forest",
+      "price": 250,
+      "category": "pastries",
+      "image": "https://media.istockphoto.com/id/1142391733/photo/white-forest-cake.jpg?s=612x612&w=0&k=20&c=MNVWFcwDbWM7u24AlFR5OM7jnvcShs1ZJNU6haWI4VM="
+    },
+    { "id": 75,
+      "name": "Banana Bread",
+      "price": 200,
+      "category": "pastries",
+      "image": "https://media.istockphoto.com/id/478982483/photo/homemade-banana-nut-bread.jpg?s=612x612&w=0&k=20&c=FS3I_44AqNftftR5ELtkNxAgHSB6SVS8osdh1NZIIFw="
+    },
 
     { "id": 76, "name": "Aliya (Sun Dried Beef)", "price": 600, "category": "traditional" },
-    { "id": 77, "name": "Bone Marrow (Boil)", "price": 500, "category": "traditional" },
-    { "id": 78, "name": "Obambo (Sun Dried Tilapia)", "price": 600, "category": "traditional" },
-    { "id": 79, "name": "Quail (Aluru)", "price": 450, "category": "traditional" },
-    { "id": 80, "name": "Traditional Porridge", "price": 200, "category": "traditional" },
-    { "id": 81, "name": "Kienyeji Vegetables", "price": 200, "category": "traditional" },
-    { "id": 82, "name": "Githeri", "price": 200, "category": "traditional" }
+    { "id": 77,
+      "name": "Bone Marrow (Boil)",
+      "price": 500,
+      "category": "traditional",
+      "image": "https://media.istockphoto.com/id/187581605/photo/roasted-bone-marrow.jpg?s=612x612&w=0&k=20&c=82JcOzFdnsSaM0tCn9bhUPMe2f-H8i2roQiDMxH5nXE="
+    },
+    { "id": 78,
+      "name": "Obambo (Sun Dried Tilapia)",
+      "price": 600,
+      "category": "traditional",
+      "image": "https://media.istockphoto.com/id/1464175219/photo/tilapia-stew-ugali-and-sukuma-wiki-kenyan-food.jpg?s=612x612&w=0&k=20&c=ROcrz7YUTIkff36aDfy-hFal1swOdGLJc75I4E3NDnw="
+    },
+    { "id": 79,
+      "name": "Quail (Aluru)",
+      "price": 450,
+      "category": "traditional",
+      "image": "https://images.getrecipekit.com/20230126164146-hoisin-20glazed-20quail.jpg?aspect_ratio=4:3&quality=90&"
+    },
+    { "id": 80,
+      "name": "Traditional Porridge",
+      "price": 200,
+      "category": "traditional",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyeRhfq8-vDOtoxBzPckc47IX_tRG0V9lF6A&s"
+    },
+    { "id": 81,
+      "name": "Kienyeji Vegetables",
+      "price": 200,
+      "category": "traditional",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD47whoeLhL0d_2ntMVysUtOx8k9sHctSxwA&s"
+    },
+    { "id": 82,
+      "name": "Githeri",
+      "price": 200,
+      "category": "traditional",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8YIq5NXTIwqwca2cEW-YFgN9nD8dchmheKQ&s"
+    }
   ]
 }
